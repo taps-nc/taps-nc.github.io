@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Blockchains Plus X
+subtitle: Session 1: Blockchains Plus Trusted Execution Environments
 cover-img: "/assets/img/path.jpg"
 ---
 
