@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + X
-subtitle: Session 1 - Blockchains + Trusted Execution Environments
+subtitle: Workshop 1 - Blockchains + Trusted Execution Environments
 cover-img: "/assets/img/path.jpg"
 ---
 
