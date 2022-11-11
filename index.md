@@ -5,8 +5,6 @@ subtitle: Workshop 1 - Blockchains + Trusted Execution Environments
 cover-img: "/assets/img/tee.png"
 ---
 
-## Blockchains + X
-
 Blockchain, as a source of decentralized trust, is forming the underlying infrastructure for decentralized finance (DeFi), the decentralized web (Web3) and perhaps also many central banking digital currencies (CBDCs). 
 
 Plug for how blockchains require interdisciplinary work - TEE, game theory, consensus, privacy, ...
