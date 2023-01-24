@@ -5,7 +5,7 @@ subtitle: Workshop 1 - Blockchains + Trusted Execution Environments (April 3, 20
 cover-img: "/assets/img/tee.png"
 ---
 
-Blockchain, as a source of decentralized trust, is forming the underlying infrastructure for a variety of applications such as payments, decentralized finance (DeFi), the decentralized web (Web3), NFTs, and even cryptography protocols. Given how blockchains relate to such a wide variety of applications and to so many areas of computer science and economics, there is a lot to learn and understand how this field evolves. With Blockchains + X, we will conduct a series of workshops each focusing on some subset of topics at once.
+Blockchain, as a source of decentralized trust, is forming the underlying infrastructure for a variety of applications such as payments, decentralized finance (DeFi), the decentralized web (Web3), NFTs, and even cryptography protocols. Given how blockchains relate to such a wide variety of applications and to so many areas of computer science and economics, there is a lot to learn and understand how this field evolves. With Blockchains + X, we will conduct a series of workshops each focusing on some subset of topics.
     
 ## Workshop 1: Blockchains + Trusted Execution Environments
     
