@@ -14,12 +14,12 @@ Our first workshop focuses on research and practice at the intersection of Trust
 We will have a series of talks from industry and academia focusing on some of the topics discussed above and perhaps shedding some light on answering some of these questions too!
 
 ### Speakers
-- Mic Bowman, Intel
-- Matt Green, Johns Hopkins University
-- Natacha Crooks, UC Berkeley
-- Heidi Howard, MSR Cambridge
-- Andrew Miller, UIUC
-- Jonathan Passerat-Palmbach, Flashbots
+- [Mic Bowman](https://www.intel.com/content/www/us/en/research/researchers/mic-bowman.html), Intel
+- [Matt Green](https://isi.jhu.edu/~mgreen/), Johns Hopkins University
+- [Natacha Crooks](https://nacrooks.github.io/), UC Berkeley
+- [Heidi Howard](https://www.microsoft.com/en-us/research/people/heidihoward/), MSR Cambridge
+- [Andrew Miller](https://soc1024.ece.illinois.edu/), UIUC
+- [Jonathan Passerat-Palmbach](https://jopasser.at/), Flashbots
 
 ## Format 
 The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Eastern Time.
