@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + X
-subtitle: Workshop 1 - Blockchains + Trusted Execution Environments
+subtitle: Workshop 1 - Blockchains + Trusted Execution Environments (April 3, 2023)
 cover-img: "/assets/img/tee.png"
 ---
 
