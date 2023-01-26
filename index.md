@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + Trusted Execution Environments
-subtitle: April 3, 2023
+subtitle: Conducted online on April 3, 2023
 cover-img: "/assets/img/tee.png"
 ---
 
