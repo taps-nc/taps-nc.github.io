@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + TEEs
-subtitle: April 3, 2023
+subtitle: April 3, 2023, [Register](https://forms.gle/ECuUQDyDXqwzktXv8)
 cover-img: "/assets/img/tee.png"
 ---
 
@@ -22,7 +22,7 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Jonathan Passerat-Palmbach](https://jopasser.at/), Flashbots
 
 ## Format 
-The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Eastern Time.
+The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Eastern Time. Detailed program would be announced soon.
 
 ## Organizers
 
