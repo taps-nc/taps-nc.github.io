@@ -26,4 +26,6 @@ The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Ea
 
 ## Organizers
 
-[Kartik Nayak](https://users.cs.duke.edu/~kartik/), [Ittai Abraham](https://research.vmware.com/researchers/ittai-abraham), and [Aniket Kate](https://www.cs.purdue.edu/homes/akate/)
+[Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke  
+[Ittai Abraham](https://research.vmware.com/researchers/ittai-abraham), VMware Research    
+[Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue
