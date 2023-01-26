@@ -668,7 +668,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header .page-heading {
   text-align: center;
 }
-.intro-header.big-img .page-heading,
+.intro-header.big-img .page-heading {
+  padding: 3.25rem 0;
+  color: #FFF;
+  text-shadow: 1px 1px 3px #000;
+}
 .intro-header.big-img .post-heading {
   padding: 6.25rem 0;
   color: #FFF;
