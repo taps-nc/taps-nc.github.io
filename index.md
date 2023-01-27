@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + TEEs
-subtitle: April 3, 2023, [button url="http://www.google.com"] [Register](https://forms.gle/ECuUQDyDXqwzktXv8)
+subtitle: April 3, 2023
 cover-img: "/assets/img/tee.png"
 ---
 
