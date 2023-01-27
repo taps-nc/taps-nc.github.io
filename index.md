@@ -23,6 +23,7 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Heidi Howard](https://www.microsoft.com/en-us/research/people/heidihoward/), MSR Cambridge
 - [Andrew Miller](https://soc1024.ece.illinois.edu/), UIUC
 - [Jonathan Passerat-Palmbach](https://jopasser.at/), Flashbots
+- [Ittay Eyal](https://webee.technion.ac.il/people/ittay/), Technion
 
 ## Format 
 The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Eastern Time. Detailed program would be announced soon.
