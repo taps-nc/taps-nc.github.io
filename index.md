@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + TEEs
-subtitle: April 3, 2023
+subtitle: April 3rd and 4th, 2023
 cover-img: "/assets/img/tee.png"
 ---
 
@@ -24,9 +24,11 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Andrew Miller](https://soc1024.ece.illinois.edu/), UIUC
 - [Jonathan Passerat-Palmbach](https://jopasser.at/), Flashbots
 - [Ittay Eyal](https://webee.technion.ac.il/people/ittay/), Technion
+- [Nick Hynes](https://www.linkedin.com/in/nhynes-/), Oasis Labs
+- [Guy Zyskind](https://www.linkedin.com/in/gguyz/?originalSubdomain=il), Secret Network
 
 ## Format 
-The workshop would be conducted on April 3 on Zoom. It would start at 9:30 AM Eastern Time. Detailed program would be announced soon.
+The workshop would be conducted on April 3rd and April 4th on Zoom. It would start at 10:00 AM Eastern Time. Detailed program would be announced soon.
 
 ## Organizers
 
