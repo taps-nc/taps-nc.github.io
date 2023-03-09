@@ -41,6 +41,18 @@ We will have a series of talks from industry and academia focusing on some of th
 | 12.30 PM - 1.00 PM | Matt Green |
 | 1.00 PM - 1.30 PM | Jonathan Passerat-Palmbach | 
 
+| 3rd April           |                            |     |
+| ------------------- | -------------------------- | --- |
+| 10.00 AM - 10.15 AM | Introduction               |     |
+| 10.15 AM - 10.45 AM | Natacha Crooks             |     |
+| 10.45 AM - 11.15 AM | Heidi Howard               | <details><summary>Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!)</summary><br> **Abstract:** In the pre-cloud era, computer systems were operated by the organizations which depended upon them. This on-premises approach gave organizations great power over their systems, however, “with great power comes great responsibility” and organizations were left with the ongoing burden of deploying and managing their own infrastructure. Today, Cloud computing has removed much of the responsibility of deploying systems, however, it has also removed much of the power that organizations once had. Organizations must place their trust in the cloud to secure the confidentiality and integrity of their data. <br> <br> In this talk, I'll consider whether it is possible to regain control over data in the cloud (great power with none of the responsibility) and even enable multiple untrusted parties to compute together on untrusted infrastructure. I’ll introduce the Confidential Consortium Framework (aka CCF), an open-source framework for building a new category of secure multiparty applications with confidentiality, integrity-protection, and high availability. CCF utilizes hardware-based trusted execution environments for remotely verifiable confidentiality and code integrity, backed by an auditable and immutable distributed ledger for data integrity and high availability. CCF even enables application developers to bring both their own application logic and a custom multi-party governance model, in the form of a programmable constitution. By the conclusion of this talk, I hope to have convinced you that distributing systems does not necessarily mean distributing trust in the era of trusted execution in the cloud. You can learn more about CCF today at: https://ccf.dev/
+</details>    |
+| 11.15 AM - 11.45 AM | Mic Bowman                 |     |
+| 11.45 AM - Noon     | Break                      |     |
+| Noon - 12.30 PM     | Panel                      |     |
+| 12.30 PM - 1.00 PM  | Matt Green                 |     |
+| 1.00 PM - 1.30 PM   | Jonathan Passerat-Palmbach |     |
+
 | 4th April           |              |
 | ------------------- | ------------ |
 | 10.05 AM - 10.15 AM | Introduction |
