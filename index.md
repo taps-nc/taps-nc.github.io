@@ -28,7 +28,8 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Guy Zyskind](https://www.linkedin.com/in/gguyz/?originalSubdomain=il), Secret Network
 
 ## Program 
-(All times are mentioned in Eastern Time)
+(All times in Eastern Time)
+
 | 3rd April           |              |
 | ------------------- | ------------ |
 | 10.00 AM - 10.15 AM | Introduction |
