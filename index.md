@@ -27,8 +27,19 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Nick Hynes](https://www.linkedin.com/in/nhynes-/), Oasis Labs
 - [Guy Zyskind](https://www.linkedin.com/in/gguyz/?originalSubdomain=il), Secret Network
 
-## Format 
-The workshop would be conducted on April 3rd and April 4th on Zoom. It would start at 10:00 AM Eastern Time. Detailed program would be announced soon.
+## Program 
+(All times are mentioned in Eastern Time)
+| 3rd April           |              |
+| ------------------- | ------------ |
+| 10.00 AM - 10.15 AM | Introduction |
+| 10.15 AM - 10.45 AM | Natacha Crooks |
+| 10.45 AM - 11.15 AM | Heidi Howard |
+| 11.15 AM - 11.45 AM | Mic Bowman |
+| 11.45 AM - Noon | Break | 
+| Noon - 12.30 PM | Panel |
+| 12.30 PM - 1.00 PM | Matt Green |
+| 1.00 PM - 1.30 PM | Jonathan Passerat-Palmbach | 
+
 
 ## Organizers
 
