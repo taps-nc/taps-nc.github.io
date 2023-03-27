@@ -11,7 +11,7 @@ permalink: /program
 | 10.00 AM - 10.15 AM | Introduction |
 | 10.15 AM - 10.45 AM | Natacha Crooks |
 | 10.45 AM - 11.15 AM | [Heidi Howard](#heidi-howard) |
-| 11.15 AM - 11.45 AM | Mic Bowman |
+| 11.15 AM - 11.45 AM | [Mic Bowman](#mic-bowman) |
 | 11.45 AM - Noon | Break | 
 | Noon - 12.30 PM | Panel |
 | 12.30 PM - 1.00 PM | Matt Green |
@@ -44,6 +44,9 @@ In this talk, I'll consider whether it is possible to regain control over data i
 </details>
   
 ### Mic Bowman
+<details>
+  <summary></summary>
 #### Building Decentralized Trust with a Trusted Execution Environment
 
 **Abstract.** The promise of hardware-based Trusted Execution Environments (TEEs) is a place where compute can happen beyond the observation and control of hosting parties. For multiparty applications the TEE can, in theory, become the trusted third party that arbitrates shared "truth". And TEE's can provide this without the redundancy and replication required by software-only alternatives such as distributed consensus protocols. However, there are many examples show that no security technology is completely immune to attack including HW-based TEEs. If TEEs aren't "perfect", what then is their appropriate role in multi-party computations? This talk will go through some of the lessons we've learned about building robust decentralized, multi-party applications with TEEs and how to use a TEE to reduce the risk of successful attacks.
+</details>
