@@ -62,7 +62,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 ### Matt Green
 
 <ul>
-<b>sk not what secure hardware can do for ledgers, but what ledgers can do for secure hardware</b>
+<b>Ask not what secure hardware can do for ledgers, but what ledgers can do for secure hardware</b>
 </ul>
 
 <ul>
