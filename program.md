@@ -127,3 +127,4 @@ In this talk, I'll consider whether it is possible to regain control over data i
 <b>Bio.</b> Ittay Eyal is an associate prof. in the Electrical and Computer Engineering Faculty at the Technion and an associate director at the Initiative for Cryptocurrencies and Contracts (IC3). Eyal completed his PhD at the Technion, followed by a post-doctorate at Cornell University. Eyal was awarded a 2018 Alon Scholarship and a 2022 Krill Prize. His research focuses on performance and security in decentralized systems. 
 </ul>
 
+### Guy Zyskind
