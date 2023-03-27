@@ -32,15 +32,19 @@ permalink: /program
 ### Natacha Crooks
 
 ### [Heidi Howard](https://www.microsoft.com/en-us/research/people/heidihoward/)
+<ul>
 #### Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!)
-
+</ul>
+<ul>
 **Abstract.** In the pre-cloud era, computer systems were operated by the organizations which depended upon them. This on-premises approach gave organizations great power over their systems, however, “with great power comes great responsibility” and organizations were left with the ongoing burden of deploying and managing their own infrastructure. Today, Cloud computing has removed much of the responsibility of deploying systems, however, it has also removed much of the power that organizations once had. Organizations must place their trust in the cloud to secure the confidentiality and integrity of their data.
+</ul>
 
-
+<ul>
 In this talk, I'll consider whether it is possible to regain control over data in the cloud (great power with none of the responsibility) and even enable multiple untrusted parties to compute together on untrusted infrastructure. I’ll introduce the Confidential Consortium Framework (aka CCF), an open-source framework for building a new category of secure multiparty applications with confidentiality, integrity-protection, and high availability. CCF utilizes hardware-based trusted execution environments for remotely verifiable confidentiality and code integrity, backed by an auditable and immutable distributed ledger for data integrity and high availability. CCF even enables application developers to bring both their own application logic and a custom multi-party governance model, in the form of a programmable constitution. By the conclusion of this talk, I hope to have convinced you that distributing systems does not necessarily mean distributing trust in the era of trusted execution in the cloud. You can learn more about CCF today at: https://ccf.dev/
 
 **Bio.** Heidi is a Senior Researcher in the Confidential Computing group at Microsoft Research Cambridge. Her research sits at the intersection between the theory and practice of distributed computing, with a focus on developing resilient and trustworthy distributed computer systems. Previously, she was a Research Fellow in Computer Science at Cambridge University’s Trinity Hall, an Affiliated/Visiting Researcher at VMware Research, and an Affiliated Lecturer at Cambridge University’s Department of Computer Science and Technology. She received her Ph.D. from Cambridge University in 2019 for her research on Distributed Consensus. She is best known for her work on the Paxos algorithm, and in particular, the invention of Flexible Paxos.
-  
+</ul>
+
 ### Mic Bowman
 #### Building Decentralized Trust with a Trusted Execution Environment
 
