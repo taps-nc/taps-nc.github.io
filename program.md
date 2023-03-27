@@ -16,7 +16,9 @@ All times in Eastern Time. The program is conducted online on Zoom (link will be
 | Noon - 12.30 PM | Panel |
 | 12.30 PM - 1.00 PM | [Matt Green, Johns Hopkins](#matt-green) |
 | 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach, Flashbots](#jonathan-passerat-palmbach) | 
+
 <br>
+
 | 4th April           |              |
 | ------------------- | ------------ |
 | 10.05 AM - 10.15 AM | Introduction |
