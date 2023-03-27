@@ -17,7 +17,6 @@ All times in Eastern Time. The program is conducted online on Zoom (link will be
 | 12.30 PM - 1.00 PM | [Matt Green, Johns Hopkins](#matt-green) |
 | 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach, Flashbots](#jonathan-passerat-palmbach) | 
 
-<br>
 
 | 4th April           |              |
 | ------------------- | ------------ |
@@ -28,6 +27,8 @@ All times in Eastern Time. The program is conducted online on Zoom (link will be
 | 11.45 AM - Noon | Break | 
 | Noon - 12.30 PM | [Ittay Eyal, Technion](#ittay-eyal) |
 | 12.30 PM - 1.00 PM | [Guy Zyskind, Secret Network](#guy-zyskind) |
+
+<br>
 
 ### Natacha Crooks
 
