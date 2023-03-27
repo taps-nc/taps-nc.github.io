@@ -3,7 +3,6 @@ layout: page
 permalink: /program
 ---
 
-## Program 
 (All times in Eastern Time)
 
 | 3rd April           |              |
