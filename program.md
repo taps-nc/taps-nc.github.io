@@ -63,7 +63,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 ### Matt Green
 
 <ul>
-#### Ask not what secure hardware can do for ledgers, but what ledgers can do for secure hardware
+<b>sk not what secure hardware can do for ledgers, but what ledgers can do for secure hardware</b>
 </ul>
 
 <ul>
@@ -76,7 +76,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 ### Jonathan Passerat-Palmbach
 <ul>
-#### Privacy x MEV: mitigation, collaboration, decentralisation
+<b>Privacy x MEV: mitigation, collaboration, decentralisation</b>
 </ul>
 
 <ul>
@@ -102,7 +102,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 ### Andrew Miller
 <ul>
-#### [TEE-based smart contracts: pitfalls and challenges](https://eprint.iacr.org/2023/378)
+<b>[TEE-based smart contracts: pitfalls and challenges](https://eprint.iacr.org/2023/378)</b>
   </ul>
   
 <ul>
@@ -117,7 +117,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 ### Ittay Eyal
 
 <ul>
-#### Teechain: A Secure Payment Network with Asynchronous Blockchain Access
+<b>Teechain: A Secure Payment Network with Asynchronous Blockchain Access</b>
 </ul>
 
 <ul>
