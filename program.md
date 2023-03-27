@@ -48,48 +48,83 @@ In this talk, I'll consider whether it is possible to regain control over data i
 </ul>
 
 ### Mic Bowman
-#### Building Decentralized Trust with a Trusted Execution Environment
+<ul>
+<h4> Building Decentralized Trust with a Trusted Execution Environment</h4>
+  </ul>
 
-**Abstract.** The promise of hardware-based Trusted Execution Environments (TEEs) is a place where compute can happen beyond the observation and control of hosting parties. For multiparty applications the TEE can, in theory, become the trusted third party that arbitrates shared "truth". And TEE's can provide this without the redundancy and replication required by software-only alternatives such as distributed consensus protocols. However, there are many examples show that no security technology is completely immune to attack including HW-based TEEs. If TEEs aren't "perfect", what then is their appropriate role in multi-party computations? This talk will go through some of the lessons we've learned about building robust decentralized, multi-party applications with TEEs and how to use a TEE to reduce the risk of successful attacks.
+<ul>
+<b>Abstract.</b> The promise of hardware-based Trusted Execution Environments (TEEs) is a place where compute can happen beyond the observation and control of hosting parties. For multiparty applications the TEE can, in theory, become the trusted third party that arbitrates shared "truth". And TEE's can provide this without the redundancy and replication required by software-only alternatives such as distributed consensus protocols. However, there are many examples show that no security technology is completely immune to attack including HW-based TEEs. If TEEs aren't "perfect", what then is their appropriate role in multi-party computations? This talk will go through some of the lessons we've learned about building robust decentralized, multi-party applications with TEEs and how to use a TEE to reduce the risk of successful attacks.
+  </ul>
 
-**Bio.** Mic Bowman is a senior principal engineer in Intel Labs and leads the decentralized computing research group. Mic has spent over 20 years working on large-scale databases and distributed systems. Among other roles he served as a member of the Hyperledger Technical Steering Committee for several years contributing to various aspects of architecture definition and evaluation of technologies for privacy and confidentiality. He is currently working on methods for improving the security, scalability, and privacy of distributed ledgers. He received his PhD in Computer Science from the University of Arizona.
+<ul>
+<b>Bio.</b> Mic Bowman is a senior principal engineer in Intel Labs and leads the decentralized computing research group. Mic has spent over 20 years working on large-scale databases and distributed systems. Among other roles he served as a member of the Hyperledger Technical Steering Committee for several years contributing to various aspects of architecture definition and evaluation of technologies for privacy and confidentiality. He is currently working on methods for improving the security, scalability, and privacy of distributed ledgers. He received his PhD in Computer Science from the University of Arizona.
+  </ul>
 
 ### Matt Green
 
+<ul>
 #### Ask not what secure hardware can do for ledgers, but what ledgers can do for secure hardware
+</ul>
 
-**Abstract.** Over the past several years, a number of proposals have proposed to use the power of Trusted Execution Environments (TEEs) to provide new capabilities to consensus networks and blockchains. In this talk we will address the opposite direction: how can blockchains be used to enhance the power of TEEs and related technologies? Our answer will introduce the concept of a “proof of publication ledger” and will demonstrate the fundamental capabilities that these systems add to TEE-based systems, including state synchronization, one-time execution, and secure data publication. We further review some recent results from the theoretical cryptography community on the interaction of ledgers and cryptographic obfuscation techniques, as a preview of what may be possible in the future.
+<ul>
+<b>Abstract.</b> Over the past several years, a number of proposals have proposed to use the power of Trusted Execution Environments (TEEs) to provide new capabilities to consensus networks and blockchains. In this talk we will address the opposite direction: how can blockchains be used to enhance the power of TEEs and related technologies? Our answer will introduce the concept of a “proof of publication ledger” and will demonstrate the fundamental capabilities that these systems add to TEE-based systems, including state synchronization, one-time execution, and secure data publication. We further review some recent results from the theoretical cryptography community on the interaction of ledgers and cryptographic obfuscation techniques, as a preview of what may be possible in the future.
+</ul>
 
-**Bio.** Matthew D. Green is an Associate Professor at the Johns Hopkins University Information Security Institute. He has worked on privacy-preserving technologies and new systems for verifiable execution, and is a co-designer of the Zexe and Zcash systems.
+<ul>
+<b>Bio.</b> Matthew D. Green is an Associate Professor at the Johns Hopkins University Information Security Institute. He has worked on privacy-preserving technologies and new systems for verifiable execution, and is a co-designer of the Zexe and Zcash systems.
+</ul>
 
 ### Jonathan Passerat-Palmbach
-
+<ul>
 #### Privacy x MEV: mitigation, collaboration, decentralisation
+</ul>
 
-**Abstract.** This presentation aims to discuss the utilisation of trusted execution environments (TEEs) and privacy enhancing technologies to mitigate the risks of Maximal Extractable Value (MEV). We will start by introducing MEV, highlighting the potential risks it poses to blockchains consensus. Then we will see how Flashbots proposed to handle MEV, via a suite of hosted services spanning PoW and now PoS Ethereum. Finally, we will discuss the research directions Flashbots is pursuing to address MEV through the use of TEEs, and our plans to combine them with privacy-enhancing technologies. This presentation aims to provide a comprehensive understanding of the challenges posed by MEV and give the directions we are currently following so that more collaborators can join us on this open research journey.
+<ul>
+<b>Abstract.</b> This presentation aims to discuss the utilisation of trusted execution environments (TEEs) and privacy enhancing technologies to mitigate the risks of Maximal Extractable Value (MEV). We will start by introducing MEV, highlighting the potential risks it poses to blockchains consensus. Then we will see how Flashbots proposed to handle MEV, via a suite of hosted services spanning PoW and now PoS Ethereum. Finally, we will discuss the research directions Flashbots is pursuing to address MEV through the use of TEEs, and our plans to combine them with privacy-enhancing technologies. This presentation aims to provide a comprehensive understanding of the challenges posed by MEV and give the directions we are currently following so that more collaborators can join us on this open research journey.
+</ul>
 
-**Bio.** Jonathan is a senior research scientist at Flashbots (https://www.flashbots.net/). He is exploring the application of Privacy Enhancing Technologies to solve hard problems such as decentralised collaborative learning and Maximum Extractable Value (MEV) in blockchains. He has grown a strong expertise in Secure Computing (Trusted Execution Environments - TEEs, FHE, ...), Federated Learning and Verifiable Computing (TEEs, Zero-Knowledge Proofs, ...). Jonathan is also a research fellow at Imperial College London ([BioMedIA](https://biomedia.doc.ic.ac.uk)) and City, University of London ([CitAI](https://cit-ai.net)) where he co-supervises research students on the topics Privacy-Preserving Machine Learning and Federated Learning. He formerly lead the R&D arm of ConsenSys / Equideum Health (https://equideum.health/), where the team focuses on bringing together privacy-preserving machine learning and blockchains to build a new generation of healthcare systems.
+<ul>
+<b>Bio.</b> Jonathan is a senior research scientist at Flashbots (https://www.flashbots.net/). He is exploring the application of Privacy Enhancing Technologies to solve hard problems such as decentralised collaborative learning and Maximum Extractable Value (MEV) in blockchains. He has grown a strong expertise in Secure Computing (Trusted Execution Environments - TEEs, FHE, ...), Federated Learning and Verifiable Computing (TEEs, Zero-Knowledge Proofs, ...). Jonathan is also a research fellow at Imperial College London ([BioMedIA](https://biomedia.doc.ic.ac.uk)) and City, University of London ([CitAI](https://cit-ai.net)) where he co-supervises research students on the topics Privacy-Preserving Machine Learning and Federated Learning. He formerly lead the R&D arm of ConsenSys / Equideum Health (https://equideum.health/), where the team focuses on bringing together privacy-preserving machine learning and blockchains to build a new generation of healthcare systems.
+</ul>
 
 ### Nick Hynes
+<ul>
 #### A Privacy Layer for Web3 - Discover how to unlock the potential of Web3 with the Oasis Privacy Layer
+</ul>
 
-**Abstract.** Come learn about the value of privacy in Web3 and how easy it is to add it to your dApp using the Oasis Privacy Layer, an EVM-compatible privacy solution powered by TEE where state and transactions are encrypted and visible only to the user and the contract. The talk explores the potential of the Oasis Privacy Layer, powered by Sapphire, for adding confidentiality to dApps on any EVM network. Nick will further demonstrate how this technology can help developers build privacy-focused applications on the decentralized web, discuss the challenges and opportunities in blockchain privacy and how to add confidentiality to dApps built on EVM networks within minutes.
+<ul>
+<b>Abstract.</b> Come learn about the value of privacy in Web3 and how easy it is to add it to your dApp using the Oasis Privacy Layer, an EVM-compatible privacy solution powered by TEE where state and transactions are encrypted and visible only to the user and the contract. The talk explores the potential of the Oasis Privacy Layer, powered by Sapphire, for adding confidentiality to dApps on any EVM network. Nick will further demonstrate how this technology can help developers build privacy-focused applications on the decentralized web, discuss the challenges and opportunities in blockchain privacy and how to add confidentiality to dApps built on EVM networks within minutes.
+</ul>
 
-**Bio.** Nick Hynes, the Tech Lead at Oasis is working on building the privacy layer for Web3 on Sapphire, the first ever confidential EVM, along with various blockchain applications. At Oasis, Nick has worked on projects such as building the first WebAssembly blockchain runtime that allows executing confidential contracts, created an SDK for authoring them in Rust and TS, and designed and built Parcel, a private data sharing and computation platform; deployed to a wide range of beta customers including Mollie, ADP, Headspace, and Frontend. While a PhD student at Berkeley, Nick worked on secure and private AI. He also holds a M.Eng degree from MIT in EECS with a focus on AI.
+<ul>
+<b>Bio.</b> Nick Hynes, the Tech Lead at Oasis is working on building the privacy layer for Web3 on Sapphire, the first ever confidential EVM, along with various blockchain applications. At Oasis, Nick has worked on projects such as building the first WebAssembly blockchain runtime that allows executing confidential contracts, created an SDK for authoring them in Rust and TS, and designed and built Parcel, a private data sharing and computation platform; deployed to a wide range of beta customers including Mollie, ADP, Headspace, and Frontend. While a PhD student at Berkeley, Nick worked on secure and private AI. He also holds a M.Eng degree from MIT in EECS with a focus on AI.
+</ul>
 
 ### Andrew Miller
-#### [TEE-based smart contracts: pitfalls and challenges]( https://eprint.iacr.org/2023/378)
-**Abstract.** I'll discuss design challenges and opportunities around TEE-based smart contracts, especially based on our recent experience of coordinated vulnerability disclosures involving access patterns and replay attacks. These are a powerful tool but not a silver bullet, and a bunch of technical debt must be repaid in order to build a secure system that relies on them.
+<ul>
+#### [TEE-based smart contracts: pitfalls and challenges](https://eprint.iacr.org/2023/378)
+  </ul>
+  
+<ul>
+<b>Abstract.</b> I'll discuss design challenges and opportunities around TEE-based smart contracts, especially based on our recent experience of coordinated vulnerability disclosures involving access patterns and replay attacks. These are a powerful tool but not a silver bullet, and a bunch of technical debt must be repaid in order to build a secure system that relies on them.
+</ul>
 
-**Bio.** Andrwe is an Assistant Professor at the University of Illinois, Urbana-Champaign, in Electrical and Computer Engineering and affiliate in Computer Science. He is also an Associate Director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation. He received his Ph.D. from the University of Maryland Cybersecurity Center.
+<ul>
+<b>Bio.</b> Andrew is an Assistant Professor at the University of Illinois, Urbana-Champaign, in Electrical and Computer Engineering and affiliate in Computer Science. He is also an Associate Director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation. He received his Ph.D. from the University of Maryland Cybersecurity Center.
+</ul>
+
 
 ### Ittay Eyal
+
+<ul>
 #### Teechain: A Secure Payment Network with Asynchronous Blockchain Access
+</ul>
 
-**Abstract.** We present Teechain, the first layer-two payment network that executes off-chain transactions asynchronously with respect to the underlying blockchain. To prevent parties from misbehaving, Teechain uses treasuries, protected by hardware trusted execution environments (TEEs), to establish off-chain payment channels between parties. Treasuries maintain collateral funds and can exchange transactions efficiently and securely, without interacting with the underlying blockchain. To mitigate against treasury failures and to avoid having to trust all TEEs, Teechain replicates the state of treasuries using committee chains, a new variant of chain replication with threshold secret sharing. Teechain achieves at least a 33x higher transaction throughput than the state-of-the-art Lightning payment network. A 30-machine Teechain deployment can handle over 1 million Bitcoin transactions per second.
+<ul>
+<b>Abstract.</b> We present Teechain, the first layer-two payment network that executes off-chain transactions asynchronously with respect to the underlying blockchain. To prevent parties from misbehaving, Teechain uses treasuries, protected by hardware trusted execution environments (TEEs), to establish off-chain payment channels between parties. Treasuries maintain collateral funds and can exchange transactions efficiently and securely, without interacting with the underlying blockchain. To mitigate against treasury failures and to avoid having to trust all TEEs, Teechain replicates the state of treasuries using committee chains, a new variant of chain replication with threshold secret sharing. Teechain achieves at least a 33x higher transaction throughput than the state-of-the-art Lightning payment network. A 30-machine Teechain deployment can handle over 1 million Bitcoin transactions per second.Joint work with Joshua Lind, Oded Naor, Florian Kelbert, Emin Gun Sirer, and Peter Pietzuch. This result was first published in SOSP'19.
+</ul>
 
-Joint work with Joshua Lind, Oded Naor, Florian Kelbert, Emin Gun Sirer, and Peter Pietzuch. This result was first published in SOSP'19.
-
-**Bio.** Ittay Eyal is an associate prof. in the Electrical and Computer Engineering Faculty at the Technion and an associate director at the Initiative for Cryptocurrencies and Contracts (IC3). Eyal completed his PhD at the Technion, followed by a post-doctorate at Cornell University. Eyal was awarded a 2018 Alon Scholarship and a 2022 Krill Prize. His research focuses on performance and security in decentralized systems. 
-
+<ul>
+<b>Bio.</b> Ittay Eyal is an associate prof. in the Electrical and Computer Engineering Faculty at the Technion and an associate director at the Initiative for Cryptocurrencies and Contracts (IC3). Eyal completed his PhD at the Technion, followed by a post-doctorate at Cornell University. Eyal was awarded a 2018 Alon Scholarship and a 2022 Krill Prize. His research focuses on performance and security in decentralized systems. 
+</ul>
 
