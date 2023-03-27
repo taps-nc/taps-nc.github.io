@@ -5,9 +5,6 @@ subtitle: April 3rd and 4th, 2023
 cover-img: "/assets/img/tee.png"
 ---
 
-# [Register Now](https://forms.gle/ECuUQDyDXqwzktXv8)
-
-
 Blockchain, as a source of decentralized trust, is forming the underlying infrastructure for a variety of applications such as payments, decentralized finance (DeFi), the decentralized web (Web3), NFTs, and even cryptography protocols. Given how blockchains relate to such a wide variety of applications and to so many areas of computer science and economics, there is a lot to learn and understand how this field evolves. With Blockchains + X, we will conduct a series of workshops each focusing on some subset of topics.
     
 ## Workshop 1: Blockchains + Trusted Execution Environments
@@ -26,32 +23,6 @@ We will have a series of talks from industry and academia focusing on some of th
 - [Ittay Eyal](https://webee.technion.ac.il/people/ittay/), Technion
 - [Nick Hynes](https://www.linkedin.com/in/nhynes-/), Oasis Labs
 - [Guy Zyskind](https://www.linkedin.com/in/gguyz/?originalSubdomain=il), Secret Network
-
-## Program 
-(All times in Eastern Time)
-
-| 3rd April           |              |
-| ------------------- | ------------ |
-| 10.00 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | Natacha Crooks |
-| 10.45 AM - 11.15 AM | Heidi Howard |
-| 11.15 AM - 11.45 AM | Mic Bowman |
-| 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | Panel |
-| 12.30 PM - 1.00 PM | Matt Green |
-| 1.00 PM - 1.30 PM | Jonathan Passerat-Palmbach | 
-
-<br>
-
-| 4th April           |              |
-| ------------------- | ------------ |
-| 10.05 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | Nick Hynes |
-| 10.45 AM - 11.15 AM | Andrew Miller |
-| 11.15 AM - 11.45 AM | Panel |
-| 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | Ittay Eyal |
-| 12.30 PM - 1.00 PM |Guy Zyskind  |
 
 ## Organizers
 
