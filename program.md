@@ -89,7 +89,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 ### Nick Hynes
 <ul>
-#### A Privacy Layer for Web3 - Discover how to unlock the potential of Web3 with the Oasis Privacy Layer
+<b>A Privacy Layer for Web3 - Discover how to unlock the potential of Web3 with the Oasis Privacy Layer</b>
 </ul>
 
 <ul>
