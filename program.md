@@ -9,25 +9,25 @@ permalink: /program
 | 3rd April           |              |
 | ------------------- | ------------ |
 | 10.00 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | Natacha Crooks |
-| 10.45 AM - 11.15 AM | [Heidi Howard](#heidi-howard) |
-| 11.15 AM - 11.45 AM | [Mic Bowman](#mic-bowman) |
+| 10.15 AM - 10.45 AM | [Natacha Crooks, UC Berkeley](#natacha-crooks) |
+| 10.45 AM - 11.15 AM | [Heidi Howard, Microsoft Research](#heidi-howard) |
+| 11.15 AM - 11.45 AM | [Mic Bowman, Intel](#mic-bowman) |
 | 11.45 AM - Noon | Break | 
 | Noon - 12.30 PM | Panel |
-| 12.30 PM - 1.00 PM | [Matt Green](#matt-green) |
-| 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach](#jonathan-passerat-palmbach) | 
+| 12.30 PM - 1.00 PM | [Matt Green, Johns Hopkins](#matt-green) |
+| 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach, Flashbots](#jonathan-passerat-palmbach) | 
 
 <br>
 
 | 4th April           |              |
 | ------------------- | ------------ |
 | 10.05 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | [Nick Hynes](#nick-hynes) |
-| 10.45 AM - 11.15 AM | [Andrew Miller](#andrew-miller) |
+| 10.15 AM - 10.45 AM | [Nick Hynes, Oasis Labs](#nick-hynes) |
+| 10.45 AM - 11.15 AM | [Andrew Miller, UIUC](#andrew-miller) |
 | 11.15 AM - 11.45 AM | Panel |
 | 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | [Ittay Eyal](#ittay-eyal) |
-| 12.30 PM - 1.00 PM | [Guy Zyskind](#guy-zyskind) |
+| Noon - 12.30 PM | [Ittay Eyal, Technion](#ittay-eyal) |
+| 12.30 PM - 1.00 PM | [Guy Zyskind, Secret Network](#guy-zyskind) |
 
 ### Natacha Crooks
 
