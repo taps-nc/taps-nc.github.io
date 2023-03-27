@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blockchains + TEEs
-subtitle: April 3rd and 4th, 2023 (Online event)
+subtitle: April 3rd and 4th, 2023 (Online Event)
 cover-img: "/assets/img/tee.png"
 ---
 
