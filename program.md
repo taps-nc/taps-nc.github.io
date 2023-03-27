@@ -14,20 +14,20 @@ permalink: /program
 | 11.15 AM - 11.45 AM | [Mic Bowman](#mic-bowman) |
 | 11.45 AM - Noon | Break | 
 | Noon - 12.30 PM | Panel |
-| 12.30 PM - 1.00 PM | Matt Green |
-| 1.00 PM - 1.30 PM | Jonathan Passerat-Palmbach | 
+| 12.30 PM - 1.00 PM | [Matt Green](#matt-green) |
+| 1.00 PM - 1.30 PM | [Jonathan Passerat-Palmbach](#jonathan-passerat-palmbach) | 
 
 <br>
 
 | 4th April           |              |
 | ------------------- | ------------ |
 | 10.05 AM - 10.15 AM | Introduction |
-| 10.15 AM - 10.45 AM | Nick Hynes |
-| 10.45 AM - 11.15 AM | Andrew Miller |
+| 10.15 AM - 10.45 AM | [Nick Hynes](#nick-hynes) |
+| 10.45 AM - 11.15 AM | [Andrew Miller](#andrew-miller) |
 | 11.15 AM - 11.45 AM | Panel |
 | 11.45 AM - Noon | Break | 
-| Noon - 12.30 PM | Ittay Eyal |
-| 12.30 PM - 1.00 PM |Guy Zyskind  |
+| Noon - 12.30 PM | [Ittay Eyal](#ittay-eyal) |
+| 12.30 PM - 1.00 PM | [Guy Zyskind](#guy-zyskind) |
 
 ### Natacha Crooks
 
@@ -71,6 +71,11 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 **Bio.** Nick Hynes, the Tech Lead at Oasis is working on building the privacy layer for Web3 on Sapphire, the first ever confidential EVM, along with various blockchain applications. At Oasis, Nick has worked on projects such as building the first WebAssembly blockchain runtime that allows executing confidential contracts, created an SDK for authoring them in Rust and TS, and designed and built Parcel, a private data sharing and computation platform; deployed to a wide range of beta customers including Mollie, ADP, Headspace, and Frontend. While a PhD student at Berkeley, Nick worked on secure and private AI. He also holds a M.Eng degree from MIT in EECS with a focus on AI.
 
+### Andrew Miller
+#### [TEE-based smart contracts: pitfalls and challenges]( https://eprint.iacr.org/2023/378)
+**Abstract.** I'll discuss design challenges and opportunities around TEE-based smart contracts, especially based on our recent experience of coordinated vulnerability disclosures involving access patterns and replay attacks. These are a powerful tool but not a silver bullet, and a bunch of technical debt must be repaid in order to build a secure system that relies on them.
+
+**Bio.** Andrwe is an Assistant Professor at the University of Illinois, Urbana-Champaign, in Electrical and Computer Engineering and affiliate in Computer Science. He is also an Associate Director of the Initiative for Cryptocurrencies and Contracts (IC3) and a board member of the Zcash Foundation. He received his Ph.D. from the University of Maryland Cybersecurity Center.
 
 ### Ittay Eyal
 #### Teechain: A Secure Payment Network with Asynchronous Blockchain Access
