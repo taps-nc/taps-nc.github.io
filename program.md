@@ -3,7 +3,7 @@ layout: page
 permalink: /program
 ---
 
-(All times in Eastern Time)
+All times in Eastern Time. The program is conducted online on Zoom (link will be shared soon).
 
 | 3rd April           |              |
 | ------------------- | ------------ |
