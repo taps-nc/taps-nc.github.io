@@ -20,7 +20,7 @@ author: Kartik Nayak
 ###############################################
 
 navbar-links:
-  Home: home
+  Home: index
   Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
   Program: program
   #About Me: "aboutme"
