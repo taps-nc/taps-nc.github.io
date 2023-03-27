@@ -32,7 +32,7 @@ All times in Eastern Time. The program is conducted online on Zoom (link will be
 
 ### Natacha Crooks
 
-### [Heidi Howard](https://www.microsoft.com/en-us/research/people/heidihoward/)
+### Heidi Howard
 <ul>
 <h4> Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!) </h4>
 </ul>
