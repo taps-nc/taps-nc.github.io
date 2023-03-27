@@ -2,6 +2,7 @@
 layout: page
 title: Blockchains + TEEs
 subtitle: April 3rd and 4th, 2023
+permalink: /home
 cover-img: "/assets/img/tee.png"
 ---
 
