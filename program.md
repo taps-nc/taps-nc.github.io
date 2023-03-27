@@ -33,6 +33,12 @@ All times in Eastern Time. The program is conducted online on Zoom (link will be
 
 ### Natacha Crooks
 
+<ul>
+  <h4> In Trusted BFT components, we (mostly?) trust </h4>
+  </ul>
+<ul>
+  <b>Abstract.</b> Most BFT protocols that leverage trusted components (counters or logs) do so to reduce replication from 3f+1 to 2f+1. In this talk, we identify several issues with this approach that restrict responsiveness and hinder throughput. In some settings, these protocols actually achieve worse throughput (per machine) than systems that do not make use of trusted hardware. We find instead that, to truly leverage the power of these trusted components, one needs to stick with 3f+1 replicas. In this setting, trusted hardware can be used to reduce the number of phases necessary to commit an operation or reduce communication complexity.
+  </ul>
 ### Heidi Howard
 <ul>
 <h4> Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!) </h4>
