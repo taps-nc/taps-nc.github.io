@@ -31,7 +31,7 @@ permalink: /program
 
 ### Natacha Crooks
 
-### Heidi Howard
+### [Heidi Howard](https://www.microsoft.com/en-us/research/people/heidihoward/)
 #### Confidential Consortium Framework: Building Secure Multiparty Applications in the Cloud (Without Handing Over the Keys to the Kingdom!)
 
 **Abstract.** In the pre-cloud era, computer systems were operated by the organizations which depended upon them. This on-premises approach gave organizations great power over their systems, however, “with great power comes great responsibility” and organizations were left with the ongoing burden of deploying and managing their own infrastructure. Today, Cloud computing has removed much of the responsibility of deploying systems, however, it has also removed much of the power that organizations once had. Organizations must place their trust in the cloud to secure the confidentiality and integrity of their data.
