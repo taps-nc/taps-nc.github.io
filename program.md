@@ -102,7 +102,7 @@ In this talk, I'll consider whether it is possible to regain control over data i
 
 ### Andrew Miller
 <ul>
-<b>[TEE-based smart contracts: pitfalls and challenges](https://eprint.iacr.org/2023/378)</b>
+  <b><a href="https://eprint.iacr.org/2023/378"> TEE-based smart contracts: pitfalls and challenges</a></b>
   </ul>
   
 <ul>
