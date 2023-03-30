@@ -137,3 +137,19 @@ In this talk, I'll consider whether it is possible to regain control over data i
 </ul>
 
 ### Guy Zyskind
+
+<ul>
+  <b> Secret's Journey: Lessons Learned from 2.5 Years of Running TEEs in Production</b>
+  </ul>
+  
+  <ul>
+  <b>Abstract.</b> In this talk, we will explore the unique experiences, valuable lessons, and inevitable challenges encountered during 2.5 years of Secret Network's pioneering integration of Trusted Execution Environments (TEEs) into its blockchain infrastructure. As the only blockchain project to utilize TEEs in production for such an extended period, we have gained a wealth of knowledge, insights, and real-world experiences to share - including the difficulties and shortcomings of TEEs. Join us as we examine the current state of TEEs in Secret, discuss the future applications of TEEs in both Secret and the broader blockchain ecosystem, and chart a path forward that embraces the potential of these innovative technologies while addressing their challenges to revolutionize privacy and security within the space.
+  </ul>
+  
+  <ul>
+  <b>Bio.</b> Guy Zyskind is the CEO of SCRT Labs and the Founder of Secret, the world's first privacy-preserving smart contracts blockchain. With a thriving community of hundreds of thousands and numerous applications transacting billions of dollars in value annually, Secret has established itself as a leading blockchain platform, taking part in highly influential projects such as collaborating with Quentin Tarantino to create NFTs from the original Pulp Fiction screenplay.
+
+Guy has some of the most cited papers in the intersection of blockchain and privacy, including "Decentralizing Privacy: Using Blockchain to Protect Personal Data" with over 2,500 citations. Simultaneously, he invests in and advises multiple blockchain companies, several of which are built directly on the Secret Network.
+
+Before his current ventures, Guy was a researcher at MIT, where he received his M.S. degree and taught the first engineering class on blockchain and cryptocurrencies. His graduate thesis laid the foundation for Secret's underlying technology. Guy also holds a B.S. in Electrical Engineering and Computer Science from Tel Aviv University. Currently, he is pursuing a PhD at MIT, focusing on privacy-preserving technologies and blockchain.
+  </ul>
