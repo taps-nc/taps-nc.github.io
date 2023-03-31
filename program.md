@@ -6,7 +6,7 @@ permalink: /program
 ## Program
 All times in Eastern Time. The program is conducted online on Zoom.
 
-Attendee zoom link: [here](https://duke.zoom.us/j/97337120840?pwd=Mnl5czNibCtJUzR1UjRCZWtxNlZFUT09)
+Attendee zoom link: [here](https://duke.zoom.us/j/97337120840?pwd=Mnl5czNibCtJUzR1UjRCZWtxNlZFUT09) <\br>
 Add to your calendar: [ICS](https://duke.zoom.us/webinar/tJMudO6prDsiHtRbtmoy4qOYh9cmQEq5XTkX/ics?icsToken=98tyKuCvrTgtG9aVuB2HRowEA4jCKOvzpmJHgrdvngvoDDkHcyzPPrtBP4NaAY3o)
 
 
