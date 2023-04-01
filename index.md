@@ -31,4 +31,4 @@ We will have a series of talks from industry and academia focusing on some of th
 
 [Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke  
 [Ittai Abraham](https://research.vmware.com/researchers/ittai-abraham), VMware Research    
-[Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue
+[Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue / Supra Labs
