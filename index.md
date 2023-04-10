@@ -5,9 +5,6 @@ subtitle: April 3rd and 4th, 2023 (Online Event)
 cover-img: "/assets/img/tee.png"
 ---
 
-### Attendee zoom link: [here](https://duke.zoom.us/j/97337120840?pwd=Mnl5czNibCtJUzR1UjRCZWtxNlZFUT09)
-### Add to your calendar: [ICS](https://duke.zoom.us/webinar/tJMudO6prDsiHtRbtmoy4qOYh9cmQEq5XTkX/ics?icsToken=98tyKuCvrTgtG9aVuB2HRowEA4jCKOvzpmJHgrdvngvoDDkHcyzPPrtBP4NaAY3o)
-
 Blockchain, as a source of decentralized trust, is forming the underlying infrastructure for a variety of applications such as payments, decentralized finance (DeFi), the decentralized web (Web3), NFTs, and even cryptography protocols. Given how blockchains relate to such a wide variety of applications and to so many areas of computer science and economics, there is a lot to learn and understand how this field evolves. With Blockchains + X, we will conduct a series of workshops each focusing on some subset of topics.
     
 ## Workshop 1: Blockchains + Trusted Execution Environments
