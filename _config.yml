@@ -21,7 +21,7 @@ author: Kartik Nayak
 
 navbar-links:
   Home: "https://blockchainsplusx.github.io/"
-  Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
+  # Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
   Program: program
   #About Me: "aboutme"
   #Resources:
