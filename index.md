@@ -19,6 +19,6 @@ Our second workshop focuses on research and practice at the intersection of Econ
 
 ## Organizers
 
-[Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke  
-[Ittai Abraham](https://research.vmware.com/researchers/ittai-abraham), VMware Research    
-[Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue / Supra Labs
+[Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke and Espresso Systems
+[Ittai Abraham](https://research.vmware.com/researchers/ittai-abraham), Intel Labs    
+[Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue and Supra Labs
