@@ -17,7 +17,7 @@ Our second workshop focuses on research and practice at the intersection of Econ
 
 ## Organizers
 
-[Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke and Espresso Systems
+[Kartik Nayak](https://users.cs.duke.edu/~kartik/), Duke and Espresso Systems 
 [Ittai Abraham](https://decentralizedthoughts.github.io/about-ittai/), Intel Labs    
 [Aniket Kate](https://www.cs.purdue.edu/homes/akate/), Purdue and Supra Labs
 
