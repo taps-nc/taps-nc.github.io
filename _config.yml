@@ -22,7 +22,8 @@ author: Kartik Nayak
 navbar-links:
   Home: "https://blockchainsplusx.github.io/"
   # Register: "https://forms.gle/ECuUQDyDXqwzktXv8"
-  Program: program
+  # Program: program
+  Past event: past_events/tees/
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
