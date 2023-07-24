@@ -22,7 +22,7 @@ All times in Eastern Time. The program is conducted online on Zoom.
 ### Matheus Ferreira
 
 <ul>
-  <h4> TITLE
+  <h4> TITLE </h4>
   </ul>
 <ul>
   <b>Abstract.</b> Abstract
