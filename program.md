@@ -7,7 +7,7 @@ permalink: /program
 All times in Eastern Time. The program is conducted online on Zoom.
 
 
-| 3rd April           |              |
+| 15th August          |              |
 | ------------------- | ------------ |
 | 10.00 AM - 10.10 AM | Introduction |
 | 10.10 AM - 10.45 AM | [Matheus V. X. Ferreira, Harvard University](#matheus-ferreira) |
