@@ -22,14 +22,15 @@ All times in Eastern Time. The program is conducted online on Zoom.
 ### Matheus Ferreira
 
 <ul>
-  <h4> TITLE </h4>
+  <h4> Algorithm Design under the Credibility Lenses </h4>
   </ul>
 <ul>
-  <b>Abstract.</b> Abstract
+  <b>Abstract.</b> Imagine you are buying something online, like on eBay. You might use an auction, which is a way of finding the best price for an item by letting people bid on it. But how do you know that the auction is fair? What if the person who runs the auction is also bidding on the item with a fake name to make you pay more or get less? This problem happens on many online platforms, and it is hard to detect or prevent. This problem is even more prevalent in blockchain applications like decentralized exchanges because agents use pseudonymous identities. As a result, one cannot rely on agents' reputations to avoid predatory behavior. In this talk, I will overview the challenges of designing online platforms that are trustworthy by exploring the design of credible mechanisms. By taking credibility as a first-order constraint, the algorithm designer proposes to follow a particular algorithm but later can deviate. An algorithm is credible if, after promising to follow such an algorithm, the algorithm designer does not have the incentive to deviate from its promised specification. As a proof of concept, I will show how the credibility lenses allow us to design decentralized exchanges and online auctions that can be trusted by users under highly adversarial environments.
+
   </ul>
 
   <ul>
-  <b>Bio.</b> Bio
+  <b>Bio.</b> Matheus Venturyne Xavier Ferreira is a Postdoctoral Fellow in Computer Science at Harvard John A. Paulson School of Engineering and Applied Sciences, and starting in Summer 2024, he will be an Assistant Professor of Computer Science at the University of Virginia. He earned his Ph.D. (2022) and MA (2018) in Computer Science from Princeton University and his BS in Computer Engineering (2016) from the Federal University of Itajubá. His research interests include AI, Algorithmic Economics, and Security. He applies artificial intelligence, optimization, and theoretical computer science tools to create secure, transparent, and auditable platforms. Matheus hails from Itabira, the Brazilian capital of poetry.
 </ul>
     
 ### Justin Drake
