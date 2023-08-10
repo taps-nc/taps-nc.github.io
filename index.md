@@ -5,7 +5,7 @@ subtitle: August 15, 2023 (Online Event)
 cover-img: "/assets/img/econ.png"
 ---
 
-# [Register Now](https://forms.gle/z75oeycEgZYST8FF8)
+# [Register Now](https://duke.zoom.us/webinar/register/WN_jFsAVzOGQbe_e-fAiyg1mw)
 
 ## Workshop 2: Blockchains + Economics
     
