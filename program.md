@@ -15,7 +15,7 @@ The program is conducted online on Zoom.
 | 11.20 AM - 12.00 PM | Panel | 
 | 12.00 PM - 12.20 PM | Break | 
 | 12.20 PM - 12.55 PM | [Matheus V. X. Ferreira, Harvard University](#matheus-ferreira) |
-| 12.55 PM - 02.30 PM | [Elaine Shi, CMU](#elaine-shi) |
+| 12.55 PM - 01.30 PM | [Elaine Shi, CMU](#elaine-shi) |
 
 
 <br>
