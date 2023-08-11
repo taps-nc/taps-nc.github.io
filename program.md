@@ -4,18 +4,19 @@ permalink: /program
 ---
 
 ## Program
-All times in Eastern Time. The program is conducted online on Zoom.
+The program is conducted online on Zoom.
 
 
-| 15th August          |              |
+| 15th August (eastern time)         |              |
 | ------------------- | ------------ |
 | 10.00 AM - 10.10 AM | Introduction |
-| 10.10 AM - 10.45 AM | [Matheus V. X. Ferreira, Harvard University](#matheus-ferreira) |
-| 10.45 AM - 11.20 AM | [Justin Drake, Ethereum Foundation](#justin-drake) |
-| 11.20 AM - 11.35 AM | Break | 
-| 11.35 AM - 12.10 PM | [Sreeram Kannan, EigenLayer](#sreeram-kannan) |
-| 12.10 PM - 12.45 PM | [Elaine Shi, CMU](#elaine-shi) |
-| 12.45 PM - 01.45 PM | Panel | 
+| 10.10 AM - 10.45 AM | [Justin Drake, Ethereum Foundation](#justin-drake) |
+| 10.45 AM - 11.20 AM | [Sreeram Kannan, EigenLayer](#sreeram-kannan) |
+| 11.20 AM - 12.00 PM | Panel | 
+| 12.00 PM - 12.20 PM | Break | 
+| 12.20 PM - 12.55 PM | [Matheus V. X. Ferreira, Harvard University](#matheus-ferreira) |
+| 12.55 PM - 02.30 PM | [Elaine Shi, CMU](#elaine-shi) |
+
 
 <br>
 
