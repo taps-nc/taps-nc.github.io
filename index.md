@@ -6,6 +6,7 @@ cover-img: "/assets/img/econ.png"
 ---
 
 # [Register Now](https://duke.zoom.us/webinar/register/WN_jFsAVzOGQbe_e-fAiyg1mw)
+# [Zoom link for attendees](https://duke.zoom.us/w/91687836298?tk=B7RT4wVc_g-Mu4hCCpDLS4VYHOUHc8_cIiqEe2kOV0M.DQMAAAAVWQVaihZxWTBPR3ZfcVI0cVYwbm5mWVBjOVB3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=SmY1OTNhQms0MFVXdFA3cTNBUWhtQT09&uuid=WN_jFsAVzOGQbe_e-fAiyg1mw)
 
 ## Workshop 2: Blockchains + Economics
     
