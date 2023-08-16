@@ -5,12 +5,11 @@ subtitle: August 15, 2023 (Online Event)
 cover-img: "/assets/img/econ.png"
 ---
 
-# [Register Now](https://duke.zoom.us/webinar/register/WN_jFsAVzOGQbe_e-fAiyg1mw)
-# [Zoom link for attendees](https://duke.zoom.us/w/91687836298?tk=B7RT4wVc_g-Mu4hCCpDLS4VYHOUHc8_cIiqEe2kOV0M.DQMAAAAVWQVaihZxWTBPR3ZfcVI0cVYwbm5mWVBjOVB3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=SmY1OTNhQms0MFVXdFA3cTNBUWhtQT09&uuid=WN_jFsAVzOGQbe_e-fAiyg1mw)
-
 ## Workshop 2: Blockchains + Economics
     
 Our second workshop focuses on research and practice at the intersection of Economics and Blockchains. Blockchains provide coordination between many parties when there is no single trusted party. However, each of these parties has its own incentives, and their actions may well be towards maximizing these incentives instead of following the specified protocols. Can we achieve protocol designs in this ecosystem where parties are incentivized to follow the protocol? We will have a series of talks from industry and academia shedding light on this topic.
+
+Recorded video of the talks and panel: [Link](https://www.youtube.com/watch?v=AhoPt6SFHj4)
 
 ### Speakers and Panelists
 - [Elaine Shi](http://elaineshi.com/), CMU
