@@ -14,6 +14,37 @@ We are pleased to announce the 2024 Triangle Area Privacy and Security Day (TAPS
 ### Speakers
 - [Test](test@test.com)
 
+
+## Program
+
+
+| 15th August (eastern time)         |              |
+| ------------------- | ------------ |
+| 10.00 AM - 10.10 AM | Introduction |
+| 10.10 AM - 10.45 AM |  |
+| 10.45 AM - 11.20 AM |  |
+| 11.20 AM - 12.00 PM |  | 
+| 12.00 PM - 12.20 PM | Break | 
+| 12.20 PM - 12.55 PM | |
+| 12.55 PM - 01.30 PM | |
+
+
+<br>
+
+### Test
+
+<ul>
+  <h4> Test </h4>
+  </ul>
+<ul>
+  <b>Abstract.</b> Test
+
+  </ul>
+
+  <ul>
+  <b>Bio.</b> Test
+</ul>
+
 ## Organizers
 
 [Matthew Lentz](https://users.cs.duke.edu/~mlentz/), Duke University       
