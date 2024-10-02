@@ -18,7 +18,7 @@ We are pleased to announce the 2024 Triangle Area Privacy and Security Day (TAPS
 ## Program
 
 
-| 15th August (eastern time)         |              |
+| October 30         |              |
 | ------------------- | ------------ |
 | 10.00 AM - 10.10 AM | Introduction |
 | 10.10 AM - 10.45 AM |  |
