@@ -5,7 +5,7 @@ subtitle: August 15, 2023 (Online Event)
 cover-img: "/assets/img/econ.png"
 ---
 
-## Workshop 2: Blockchains + Economics
+## Triangle Area Privacy and Security Seminar
     
 Our second workshop focuses on research and practice at the intersection of Economics and Blockchains. Blockchains provide coordination between many parties when there is no single trusted party. However, each of these parties has its own incentives, and their actions may well be towards maximizing these incentives instead of following the specified protocols. Can we achieve protocol designs in this ecosystem where parties are incentivized to follow the protocol? We will have a series of talks from industry and academia shedding light on this topic.
 
