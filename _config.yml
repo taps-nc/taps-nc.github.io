@@ -10,11 +10,10 @@
 ############################
 
 # Name of website
-title: Blockchains + X
+title: TAPS
 
 # Your name to show in the footer
-author: Kartik Nayak
-
+author: TAPS
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
@@ -23,7 +22,7 @@ navbar-links:
   Home: "https://blockchainsplusx.github.io/"
   #Past event: past_events/tees/
   #Program: program
-  Register: "www.google.com"
+  Register: "https://www.tickettailor.com/events/dukeuniversitycomputersciencedepartment/1374233"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -98,7 +97,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "blockchainsplusx.github.io"
+url-pretty: "taps-nc.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
