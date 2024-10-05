@@ -17,29 +17,20 @@ We are pleased to announce the 2024 Triangle Area Privacy and Security Day (TAPS
 | 09:00 - 09:30 | **Breakfast** |
 | 09:30 - 09:45 | **Welcome** |
 | 09:45 - 10:30 | **Talks** |
-| | **"Onion Franking: Abuse Reports for Mix-based Private Messaging"** |
-| | by Matthew Gregoire (UNC, Advisor: Saba Eskandarian) |
-| | **"HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted"** |
-| | by Yanxue Jia (Purdue, Postdoc Advisor: Aniket Kate) |
+| | **"Onion Franking: Abuse Reports for Mix-based Private Messaging"**<br>Matthew Gregoire (UNC, Advisor: Saba Eskandarian) |
+| | **"HomeRun: High-efficiency Oblivious Message Retrieval, Unrestricted"**<br>Yanxue Jia (Purdue, Postdoc Advisor: Aniket Kate) |
 | 10:30 - 11:00 | **Break** | 
 | 11:00 - 11:45 | **Talks** |
-| | **"Towards Better Privacy & Safety for VR Users"**
-| | Abhinaya S.B. (NC State, Advisor: Anupam Das)
-| | **TBD - Topics: Software Supply Chain / Triaging Vulnerabilities**
-| | Elizbeth Lin (NC State, Advisor: Will Enck)
+| | **"Towards Better Privacy & Safety for VR Users"**<br>Abhinaya S.B. (NC State, Advisor: Anupam Das) |
+| | **TBD - Topics: Software Supply Chain / Triaging Vulnerabilities**<br>Elizbeth Lin (NC State, Advisor: Will Enck) |
 | 11:45 - 13:00 | **Lunch** | 
 | 13:00 - 13:45 | **Talks** | 
-| | **"A General Framework for Data-use Auditing of ML Models"**
-| | Zonghao Huang (Duke, Advisor: Mike Reiter)
-| | **"Graph Construction for Information Flow Tracking in Verilog HDL"**
-| | Ayesha Siddika (UNC, Advisor: Cynthia Sturton)
+| | **"A General Framework for Data-use Auditing of ML Models"**<br>Zonghao Huang (Duke, Advisor: Mike Reiter) |
+| | **"Graph Construction for Information Flow Tracking in Verilog HDL"**<br>Ayesha Siddika (UNC, Advisor: Cynthia Sturton) |
 | 13:45 - 14:00 | **Break** | 
 | 14:00 - 14:45 | **Talks** | 
-| | 2:00-2:45pm 2 Talks
-| | **"CtChecker: a Precise, Sound and Efficient Static Analysis for Constant-Time Programming"**
-| | Sixuan Dang (Duke, Advisor: Danfeng Zhang)
-| | **TBD**
-| | Feiyang Yu (Duke, Advisor: Danfeng Zhang)
+| | **"CtChecker: a Precise, Sound and Efficient Static Analysis for Constant-Time Programming"**<br>Sixuan Dang (Duke, Advisor: Danfeng Zhang) |
+| | **TBD**<br>Feiyang Yu (Duke, Advisor: Danfeng Zhang) |
 | 14:45 - 15:00 | **Break** | 
 | 15:00 - 15:45 | **"Future of Taps" Discussion** | 
 
