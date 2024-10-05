@@ -22,7 +22,7 @@ We are pleased to announce the 2024 Triangle Area Privacy and Security Day (TAPS
 | 10:30 - 11:00 | **Break** | 
 | 11:00 - 11:45 | **Talks** |
 | | **"Towards Better Privacy & Safety for VR Users"**<br>Abhinaya S.B. (NC State) |
-| | **TBD - Topics: Software Supply Chain / Triaging Vulnerabilities**<br>Elizbeth Lin (NC State) |
+| | **TBD - Topics: Software Supply Chain / Triaging Vulnerabilities**<br>Elizabeth Lin (NC State) |
 | 11:45 - 13:00 | **Lunch** | 
 | 13:00 - 13:45 | **Talks** | 
 | | **"A General Framework for Data-use Auditing of ML Models"**<br>Zonghao Huang (Duke) |
