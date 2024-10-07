@@ -30,7 +30,7 @@ We are pleased to announce the 2024 Triangle Area Privacy and Security Day (TAPS
 | 13:45 - 14:00 | **Break** | 
 | 14:00 - 14:45 | **Talks** | 
 | | **"CtChecker: a Precise, Sound and Efficient Static Analysis for Constant-Time Programming"**<br>Sixuan Dang (Duke) |
-| | **Athena: Analyzing and Quantifying Side Channels of Transport Layer Protocols**<br>Feiyang Yu (Duke) |
+| | **"Athena: Analyzing and Quantifying Side Channels of Transport Layer Protocols"**<br>Feiyang Yu (Duke) |
 | 14:45 - 15:00 | **Break** | 
 | 15:00 - 15:45 | **"Future of Taps" Discussion** | 
 
